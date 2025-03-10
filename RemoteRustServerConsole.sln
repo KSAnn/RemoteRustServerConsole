@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteRustServerConsole", "TestRconProtocol\RemoteRustServerConsole.csproj", "{87403DEA-CB09-45AE-B08C-23A120C80CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87403DEA-CB09-45AE-B08C-23A120C80CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87403DEA-CB09-45AE-B08C-23A120C80CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87403DEA-CB09-45AE-B08C-23A120C80CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87403DEA-CB09-45AE-B08C-23A120C80CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE719ED-6181-4768-B9EC-FE7F8CBFDD92}
+	EndGlobalSection
+EndGlobal
